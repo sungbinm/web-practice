@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(201, 185, 214);
+}
+
+h1 {
+  font-size: 52px;
+  color: rgb(88, 49, 196);
+}
+header {
+  text-align: center;
+}
+img {
+  width: 200px;
+}
